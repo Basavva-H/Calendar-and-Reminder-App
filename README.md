@@ -9,8 +9,6 @@
 ![License](https://img.shields.io/badge/License-MIT-0066FF.svg)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-10B981.svg)
 
-[Features](#-key-features) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Usage](#-usage) • [Screenshots](#-screenshots)
-
 </div>
 
 ---
